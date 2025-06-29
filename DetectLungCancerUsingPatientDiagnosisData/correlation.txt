@@ -1,0 +1,14 @@
+survived                     1.000000
+cancer_stage                 0.002519
+treatment_type               0.002354
+cirrhosis                    0.001956
+family_history               0.001322
+age_scaled                   0.001233
+gender                       0.000762
+cholesterol_level_scaled     0.000157
+smoking_status               0.000087
+hypertension                 0.000059
+bmi_scaled                   0.000007
+treatment_duration_scaled   -0.000691
+asthma                      -0.001809
+other_cancer                -0.001972
